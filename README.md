@@ -1,5 +1,5 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--              ANURAG KUMAR // CLOUD & SOFTWARE ENGINEER (B.TECH '27)    -->
+<!--                    ANURAG KUMAR // DEVELOPER PROFILE                  -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -9,11 +9,12 @@
 <div align="center">
 
 # 👋 Hi, I'm Anurag Kumar
-### 🚀 Aspiring Cloud Architect & Backend Software Engineer
-**B.Tech in Computer Science & Engineering (Batch of 2027)** • **Galgotias University**
+
+### Software Developer • Cloud & DevOps Enthusiast • DevSecOps Practitioner
+**B.Tech in Computer Science and Engineering (Batch of 2027) • Galgotias University**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=820&lines=B.Tech+CSE+Undergrad+(Class+of+2027)+%F0%9F%8E%93;Aspiring+Cloud+Architect+%26+Backend+Engineer+%E2%9A%A1;Java+%7C+DSA+%7C+System+Design+%7C+Microservices;Azure+Landing+Zones+%7C+Terraform+%7C+DevSecOps;Ready+for+High-Impact+Engineering+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=820&lines=Software+Development+%26+Backend+APIs+%F0%9F%92%BB;Cloud+Engineering+%7C+Azure+%26+AWS+%E2%9A%A1;DevOps+%26+Infrastructure+Automation+(Terraform);DevSecOps+%7C+Security+Scanning+%26+CI%2FCD;B.Tech+CSE+@+Galgotias+University+(Class+of+2027)+%F0%9F%8E%93" alt="Typing SVG" />
 </p>
 
 <br>
@@ -22,221 +23,133 @@
   <img src="https://img.shields.io/github/followers/the-anurag14?label=Followers&style=for-the-badge&logo=github&color=00F7FF&logoColor=black" alt="GitHub Followers"/>
 </a>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20INTERNSHIPS%20%26%20ROLES-00F7FF?style=for-the-badge&logo=target&logoColor=black" alt="Status Open"/>
-<img src="https://img.shields.io/badge/BATCH-B.TECH%20CSE%202027-BC13FE?style=for-the-badge&logo=mortarboard&logoColor=white" alt="Batch 2027"/>
-<img src="https://img.shields.io/badge/LOCATION-INDIA%20%F0%9F%87%AE%F0%9F%87%B3-111111?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location India"/>
+<img src="https://img.shields.io/badge/CGPA-8.25%20%2F%2010.0-BC13FE?style=for-the-badge&logo=mortarboard&logoColor=white" alt="CGPA 8.25"/>
+<img src="https://img.shields.io/badge/BATCH-2023--2027-111111?style=for-the-badge&logo=calendar&logoColor=white" alt="Batch 2023-2027"/>
 <img src="https://komarev.com/ghpvc/?username=the-anurag14&style=for-the-badge&color=00f7ff" alt="Profile Views"/>
 
 </div>
 
 ---
 
-# 🎯 Why Hire Anurag? (Recruiter Quick Brief)
+# 🎓 Academic Profile
+
+| Program / Standard | Institution / Board | Year | Performance |
+| :--- | :--- | :---: | :---: |
+| **Bachelor of Technology (B.Tech) — CSE** | **Galgotias University** | 2023 – 2027 | **8.25 CGPA** |
+| **Senior Secondary (Class XII)** | CBSE / State Board | 2022 | **69.4%** |
+| **Secondary School (Class X)** | CBSE / State Board | 2020 | **85.6%** |
+
+> 🎯 **Placement Focus:** Preparing for 2027 software engineering campus and off-campus placements, with a focus on roles like **TCS (Ninja, Digital, Prime)**, early-career software engineering, and cloud/DevOps roles.
+
+---
+
+# 💎 Professional Profile
 
 <div align="left">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="270" align="right" alt="Coding GIF">
 </div>
 
-While most college students limit themselves to academic theory, I bridge **computer science fundamentals (Java, DSA, OOP)** with **enterprise-grade architectural thinking (Cloud Landing Zones, Hub-and-Spoke Networking, DevSecOps, and FinOps)**.
+I am a **Computer Science and Engineering student** passionate about **Software Development, Cloud Engineering, DevOps, Infrastructure Automation, and DevSecOps**.
 
-* 🎓 **Class of 2027 Engineering Talent:** Fast, adaptable learner with zero legacy tech debt and rigorous engineering ethics.
-* 🧩 **Strong Problem-Solving Core:** Continuous practice in Data Structures & Algorithms using Java with a focus on optimal algorithmic time/space complexities.
-* ☁️ **Enterprise Cloud & DevSecOps Acumen:** Strong conceptual and practical grasp of Microsoft Azure, Terraform Infrastructure as Code (IaC), CAF methodologies, and defense-in-depth security.
-* 💼 **Production-Oriented Mindset:** Building applications with high availability, scalability, observability, and clean architectural boundaries.
+I love tackling real-world technical problems, building full-stack applications, automating infrastructure deployments, and understanding the engineering principles behind reliable, scalable, and secure systems.
 
-> 💡 **Recruiter Note:** I am actively seeking **Software Engineering Internships**, **Cloud/DevOps Trainee Roles**, and **Early-Career Engineering Opportunities**.
+- 💻 **Software Development:** Building robust backend APIs, authentication workflows, and modern web applications.
+- ☁️ **Cloud & Infrastructure as Code:** Provisioning and managing resources on **Microsoft Azure** and **AWS** using **Terraform**.
+- 🔐 **DevSecOps Integration:** Automating CI/CD pipelines with integrated security scanning (`TFLint`, `tfsec`, `Gitleaks`, `TruffleHog`).
+- 🧩 **Continuous Learning:** Strengthening Data Structures & Algorithms in Java and practicing core computer science principles.
 
 <br clear="right"/>
 
 ---
 
-# 💻 System Monitor & Terminal Session
+# 💻 System Monitor & Developer Terminal
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ CANDIDATE    : ANURAG KUMAR                                                            │
-│ EDUCATION    : B.TECH COMPUTER SCIENCE & ENGINEERING (GRADUATION: 2027)                │
-│ PROFILE      : SOFTWARE DEVELOPER • ASPIRING CLOUD & DEVOPS ARCHITECT                  │
-│ SPECIALTIES  : JAVA • DSA • AZURE LANDING ZONES • TERRAFORM IaC • ENTERPRISE GOVERNANCE│
-│ AVAILABILITY : OPEN FOR SUMMER/FALL INTERNSHIPS & JUNIOR ROLES                         │
-│ SYSTEM STATE : ● READY TO SHIP IMPACT [ONLINE ⚡]                                      │
+│ USER         : ANURAG KUMAR                                                            │
+│ GITHUB       : @the-anurag14                                                           │
+│ ACADEMICS    : B.TECH COMPUTER SCIENCE & ENGINEERING • GALGOTIAS UNIVERSITY (2023-2027)│
+│ CGPA         : 8.25 / 10.0                                                             │
+│ INTERESTS    : SOFTWARE DEV • CLOUD (AZURE/AWS) • DEVOPS • INFRASTRUCTURE AUTOMATION   │
+│ STATUS       : ● ACTIVE LEARNING & BUILDING [ONLINE ⚡]                                │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ```bash
 $ whoami
-anurag@cloud-architect:~$ software-engineer-in-making --target 2027
+anurag@developer:~$ software-engineer-in-training --target 2027
 
-$ cat recruiter_summary.txt
-✔ High-impact fresher with enterprise vision.
-✔ Bridges Algorithmic DSA + Enterprise Cloud Architecture.
-✔ Passionate about clean code, automated pipelines, and cloud economics.
+$ cat philosophy.txt
+"Learn fundamentals thoroughly. Build practical systems. Automate workflows. Shift security left."
 
-$ cat engineering_mantra.sh
-"Understand the business domain. Design for scale and reliability. Automate ruthlessly."
+$ cat current_focus.json
+{
+  "dsa": "Java & Problem Solving",
+  "cloud": "Azure Infrastructure & Terraform IaC",
+  "devops": "CI/CD & DevSecOps Automated Guardrails",
+  "placements": "2027 Software Engineering Drives"
+}
 ```
 
 ---
 
-# 🚀 Technical Competencies & Arsenal
+# 🚀 Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,azure,linux,vscode,mysql,postman&perline=12" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,react,tailwind,nodejs,express,azure,aws,terraform,docker,githubactions,jenkins,linux,git,github,mysql,mongodb,firebase&perline=11" alt="Skill Icons" />
 </p>
 
-| Domain | Core Technologies & Methodologies |
+| Domain | Technologies & Tools |
 | :--- | :--- |
-| **☕ Programming & DSA** | **Java (Core, OOP, Collections, Multithreading)**, Python, JavaScript (ES6+), SQL, Arrays, Trees, Graphs, Dynamic Programming |
-| **☁️ Cloud & Architecture** | **Microsoft Azure**, Cloud Adoption Framework (CAF), Enterprise Landing Zones, Hub-and-Spoke VNets, Private Endpoints |
-| **⚙️ DevOps & IaC** | **Terraform (IaC)**, Azure Repos/DevOps, CI/CD Pipeline Automation, Linux / Bash, Git, GitLeaks, TFLint, Checkov |
-| **🔐 Cloud Security (DevSecOps)** | Microsoft Entra ID (PIM, RBAC, Conditional Access), Azure Policy Guardrails, Network Security Groups, Defense-in-Depth |
-| **🌐 Web & Backend Engineering** | REST APIs, Modular Backend Design, HTML5/CSS3, State Management, Microservices vs Monolith fundamentals |
-| **📈 Reliability & FinOps** | High Availability (LRS/ZRS/GRS), Disaster Recovery (RTO/RPO), Azure Monitor, Log Analytics, Cost Optimization |
+| **☕ Programming Languages** | Java, Python, C, C++, JavaScript, TypeScript |
+| **🌐 Frontend Development** | HTML5, CSS3, React, Vite, Tailwind CSS |
+| **⚡ Backend Development** | Node.js, Express.js, Java Servlets, REST APIs, JWT Authentication |
+| **☁️ Cloud & DevOps** | Microsoft Azure, AWS, Terraform, Docker, GitHub Actions, Jenkins, Azure DevOps, Linux, Git, GitHub |
+| **🔐 DevSecOps & Security Tools** | TFLint, tfsec, Gitleaks, TruffleHog, Terraform Validation, Secret Scanning, Infrastructure Security Checks |
+| **🗄️ Databases** | MySQL, MongoDB (Atlas), Firebase, Oracle SQL |
+| **📱 Mobile Development** | Android Development, Kotlin, Jetpack Compose |
 
 ---
 
-# 🏗️ Architectural Foundations: Enterprise Cloud & System Design
-
-Recruiters and engineering leads value engineers who understand how real-world enterprise systems are architected. Here is a breakdown of architectural patterns I study and implement:
-
-### 🌐 1. Enterprise Hub-and-Spoke Network Architecture
-A secure, centralized networking model that enforces defense-in-depth and isolates application blast radiuses.
-
-```text
-                         [ On-Premises / Remote Clients ]
-                                        │
-                         (ExpressRoute / VPN Gateway)
-                                        │
-  +-------------------------------------v-------------------------------------+
-  |                     HUB VNet (Central Connectivity)                       |
-  |                                                                           |
-  |   +-------------------+    +--------------------+    +----------------+   |
-  |   | Azure Firewall    |    | GatewaySubnet      |    | Private DNS    |   |
-  |   | (L7 Inspection)   |    | (VPN/ER Gateway)   |    | Zones          |   |
-  |   +---------+---------+    +--------------------+    +----------------+   |
-  +-------------|-------------------------------------------------------------+
-                │ (VNet Peering + UDR: 0.0.0.0/0 -> Firewall IP)
-                +----------------------------+----------------------------+
-                │                                                         │
-  +-------------v--------------+                           +--------------v-------------+
-  |    Spoke 1: Application    |                           |      Spoke 2: Shared       |
-  |    - App Service Subnet    |                           |      - CI/CD Runners       |
-  |    - Database Tier Subnet  |                           |      - Azure Bastion       |
-  |    - Private Endpoints     |                           |      - Security Scanning   |
-  +----------------------------+                           +----------------------------+
-```
-
-<details>
-<summary><b>🔍 Expand: Enterprise Networking & Security Principles</b></summary>
-<br>
-
-* **Non-Overlapping IPAM:** Strict CIDR allocation preventing IP conflicts between on-prem and Azure subnets.
-* **Forced Tunneling via UDRs:** All outbound internet and inter-spoke traffic routed through central firewall inspection (`0.0.0.0/0`).
-* **Zero Trust & Private PaaS:** PaaS resources (Azure SQL, Key Vault, Storage) accessed strictly via Private Endpoints with Private DNS zone resolution.
-* **Micro-segmentation:** Network Security Groups (NSGs) and Application Security Groups (ASGs) restricting subnet-to-subnet access.
-</details>
-
----
-
-### 🛡️ 2. DevSecOps & Automated Terraform Pipeline
-Security is not an afterthought; it is shifted left into every phase of the development lifecycle.
-
-```text
-[ Developer Commit ]
-         │
-         ▼
-[ Static Linting & Formatting ] ───► terraform fmt, tflint
-         │
-         ▼
-[ Security & Vulnerability Scan ] ──► Checkov, Trivy, GitLeaks
-         │
-         ▼
-[ Cost Estimation (FinOps) ] ──────► Infracost (Budget Impact Analysis)
-         │
-         ▼
-[ Terraform Plan Generation ] ────► Azure Blob Remote State (Lease Locking)
-         │
-         ▼
-[ Automated Gates & Approval ] ───► Peer Review & Production Protection
-         │
-         ▼
-[ Terraform Apply & Drift Watch ] ─► Automated Deployment & Drift Alerting
-```
-
----
-
-### 📊 3. Cloud Adoption Framework (CAF) & 10 Scalability Pillars
-A structured approach to governing and modernizing 100+ enterprise workloads:
-
-```text
-+--------------------------------------------------------------------------------------------------+
-|                                    10 Scalability & Quality Pillars                               |
-|                                                                                                  |
-|  1. Scalable      2. Robust        3. Secure        4. Reliable       5. Portable                |
-|  6. Governed      7. High Avail    8. Cost-Optim    9. Backed Up      10. Compliant & Monitored  |
-+--------------------------------------------------------------------------------------------------+
-```
-
-| Governance Layer | Enterprise Implementation Pattern |
-| :--- | :--- |
-| **Management Hierarchy** | Root Group → Platform MG (Identity, Connectivity, Management) + Landing Zones MG (Corp, Online, Dev, UAT, Prod) |
-| **Access Control (RBAC & PIM)** | Least privilege access with Microsoft Entra Privileged Identity Management (JIT access, multi-stage approvals) |
-| **Policy Guardrails** | Built-in initiatives (CIS Azure Benchmark, MCSB) enforced at Management Group scope with `AuditIfNotExists` / `Deny` |
-| **High Availability & DR** | Multi-zone VMSS, ZRS/GRS storage replication, defined **RTO** (Downtime tolerance) and **RPO** (Data loss tolerance) |
-| **FinOps Optimization** | Automated idle resource cleanup, rightsizing VMs based on utilization, and Reserved Instances (RI) |
-
----
-
-# 🏠 Featured Projects & Code Repositories
+# 🏠 Featured Projects
 
 ### 💼 [Job Portal Application](https://github.com/the-anurag14/job-portal)
-> **Full-Stack Recruitment Platform with Role-Based Workflows**
+> **Full-Stack Recruitment Platform with Multi-Tier Architecture**
 
-A comprehensive software platform engineered to connect job seekers with recruiters, featuring application lifecycle tracking, job posting management, and role-based access.
-
-```text
-                Job Seekers & Recruiters
-                           │
-                           ▼
-              Web Application Frontend
-                           │
-                           ▼
-          REST API & Application Logic Tier
-                           │
-                           ▼
-             Relational Database Storage
-```
-* **Architecture:** 3-tier software architecture with decoupled frontend, routing controllers, and persistent database layer.
-* **Tech Stack:** `Java` `JavaScript` `HTML5` `CSS3` `RESTful APIs` `Git`
+A practical software project designed to streamline recruitment, applicant tracking, and job management workflows.
+* **Backend & Authentication:** Engineered backend REST APIs with JWT authentication, role management (candidates vs recruiters), and database persistence.
+* **Implementations:** Developed using **Node.js, Express.js, MongoDB Atlas**, as well as a separate enterprise **Java Servlets & MySQL** implementation running on Apache Tomcat.
+* **Tech Stack:** `Node.js` `Express.js` `MongoDB Atlas` `JWT` `Java Servlets` `MySQL` `Apache Tomcat`
 * 👉 [Explore Repository →](https://github.com/the-anurag14/job-portal)
 
 ---
 
-### 📚 [Data Structures & Algorithms in Java](https://github.com/the-anurag14/DS_Java_Galgotias)
-> **Comprehensive DSA Problem-Solving & Algorithmic Excellence**
+### ☁️ [Azure Infrastructure Automation](https://github.com/the-anurag14/b18-infra)
+> **Infrastructure as Code (IaC) with Terraform & GitHub Actions**
 
-A structured, production-clean repository documenting my daily algorithmic problem-solving journey in Java.
-
-* **Core Focus:** Arrays, Linked Lists, Stacks, Queues, Binary Search Trees, Graphs, Dynamic Programming, Greedy Algorithms, and Complexity Optimization.
-* **Key Benefit for Employers:** Demonstrates clean coding habits, solid understanding of time & space complexity ($O(N)$, $O(\log N)$, $O(1)$), and computational thinking.
-* 👉 [Explore Repository →](https://github.com/the-anurag14/DS_Java_Galgotias)
-
----
-
-### ☁️ [Infrastructure & Cloud Lab](https://github.com/the-anurag14/b18-infra)
-> **Enterprise Cloud Provisioning & Infrastructure as Code Experiments**
-
-Sandbox environment exploring cloud landing zones, Linux automation, networking configurations, and infrastructure deployment patterns.
-
-* **Focus Areas:** Azure Resource Management, Terraform modules, networking topologies, and Linux server management.
+A hands-on cloud automation repository demonstrating infrastructure provisioning and governance in Microsoft Azure.
+* **Key Implementation:** Automated creation of Azure Resource Groups, Virtual Networks (VNets), Subnets, and Network Security Groups.
+* **IaC Practices:** Configured modular Terraform files, remote state management with Azure Blob Storage, and CI/CD validation.
+* **Tech Stack:** `Microsoft Azure` `Terraform` `GitHub Actions` `Linux / Bash`
 * 👉 [Explore Repository →](https://github.com/the-anurag14/b18-infra)
 
 ---
 
+### 📚 [Data Structures & Algorithms in Java](https://github.com/the-anurag14/DS_Java_Galgotias)
+> **Algorithmic Problem Solving & Core Foundations**
+
+A dedicated problem-solving repository documenting my implementation and practice of core Data Structures & Algorithms in Java.
+* **Topics Covered:** Arrays, Linked Lists, Stacks, Queues, Binary Trees, Recursion, Searching & Sorting, and Complexity Analysis ($O(N)$, $O(\log N)$).
+* **Tech Stack:** `Java` `Data Structures` `Algorithms` `Problem Solving`
+* 👉 [Explore Repository →](https://github.com/the-anurag14/DS_Java_Galgotias)
+
+---
+
 ### ⚡ [Tech-Bits](https://github.com/the-anurag14/Tech-Bits)
-> **Engineering Prototypes, System Design & Architecture Patterns**
+> **Development Experiments & Technical Exploration**
 
-A space dedicated to experimenting with software design patterns, API integrations, and developer tooling prototypes.
-
+A dedicated technical workspace for testing new concepts, software architectural patterns, and prototyping practical development workflows.
+* **Tech Stack:** `Software Engineering` `Prototyping` `Exploration`
 * 👉 [Explore Repository →](https://github.com/the-anurag14/Tech-Bits)
 
 ---
@@ -244,9 +157,73 @@ A space dedicated to experimenting with software design patterns, API integratio
 ### 🎓 [Academic Development Journey](https://github.com/the-anurag14/Gu_Anurag_Kumar_23SCSE1010414)
 > **B.Tech CSE Academic Journey (2023 - 2027) • Galgotias University**
 
-Tracking core computer science curriculum milestones, lab implementations, and academic engineering achievements (`23SCSE1010414`).
-
+Tracking academic milestones, computer science lab implementations, and curriculum projects at Galgotias University (`23SCSE1010414`).
+* **Tech Stack:** `Computer Science Fundamentals` `Academic Projects`
 * 👉 [Explore Repository →](https://github.com/the-anurag14/Gu_Anurag_Kumar_23SCSE1010414)
+
+---
+
+### 🛠️ Additional Technical & Academic Projects
+
+* **🛡️ DevSecOps CI/CD Pipeline:** Built an automated CI/CD pipeline incorporating Terraform validation, linting (`TFLint`), security scanning (`tfsec`), and secret detection (`Gitleaks`, `TruffleHog`) using GitHub Actions and Jenkins.
+* **🗄️ CloudVault:** A web application focusing on secure file handling, backend API integration, MongoDB database connectivity, and a modern frontend interface using Node.js, Vite, and JavaScript/TypeScript.
+* **🎬 StreamFlix Cloud Deployment:** A cloud deployment implementation deploying application workloads to Azure Virtual Machines with configured VNets, storage, and networking rules.
+* **🏫 Smart India Hackathon — Remote Classroom:** An ed-tech software solution utilizing Python and Firebase to enable interactive remote classroom sessions and digital learning tools.
+* **🏥 Online Healthcare Management System:** An academic software application developed to manage patient appointments, medical records, and clinic administrative workflows.
+* **🎟️ Online Movie Ticket Booking System:** Software engineering academic project managing theater listings, seating layouts, and ticket reservation flows.
+
+---
+
+# 💼 Internships & Experience
+
+| Role / Program | Organization | Details |
+| :--- | :--- | :--- |
+| **HCL Jigsaw Mentor** | **HCL GUVI** (2026) | Mentored students in technical problem solving, foundational programming concepts, and coding practices. |
+| **AWS Cloud Internship** | **AWS Virtual Program** | Hands-on experience with core cloud architecture, AWS compute (EC2), storage (S3), and cloud networking. |
+| **Google Android Developer Virtual Internship** | **Google / Eduskills** | Mobile application development using Kotlin, Android Studio, UI components, and modern Android architecture. |
+| **Google AI/ML Virtual Internship** | **Google / Eduskills** | Exploratory program covering AI/ML fundamentals, data preprocessing, and introductory machine learning models. |
+| **AICTE Android Internship** | **AICTE** | Hands-on mobile application development focusing on Android fundamentals, layouts, and app lifecycles. |
+| **Wipro TalentNext Program** | **Wipro** | Comprehensive training in Java Full Stack development, Object-Oriented Programming, and database integration. |
+| **System UX Engineer** | **XarrowAI Industries** | Collaborated on interface workflows, user experience alignment, and front-facing technical coordination. |
+
+---
+
+# 📜 Certifications & Courses
+
+* 🏆 **Oracle SQL Certification** — Database querying, relational data modeling, and transaction management.
+* 🐍 **Python Programming** — GUVI
+* 💡 **Design Thinking** — NPTEL
+* 🎓 **Infosys Springboard Certifications** — Foundational programming and technology courses.
+* ☁️ **AWS Cloud Virtual Internship Certificate**
+* 📱 **Google Android Developer Virtual Internship Certificate**
+* 🤖 **Google AI/ML Virtual Internship Certificate**
+* 📱 **AICTE Android Developer Virtual Internship Certificate**
+
+---
+
+# 🌟 Leadership & Extracurricular Activities
+
+* 🏛️ **Member — Galgotias Student Council:** Actively involved in campus student governance, planning, and student initiatives.
+* 🎭 **Senior Member — Stage Management Team:** Led on-ground coordination, logistics, and technical execution for major university events.
+* 📱 **Coordinator — iOS Development Club:** Organized workshops, collaborative sessions, and peer learning on mobile app development.
+* 🤝 **Mentor — HCL GUVI / HCL Jigsaw:** Provided mentorship and technical guidance to aspiring developers during hackathons and training.
+
+---
+
+# 🎯 Current Learning & 2027 Goals
+
+```text
+[ B.Tech CSE Class of 2027 Placement & Growth Checklist ]
+☑ Maintain Strong Academic Record (Current CGPA: 8.25)
+☑ Java & Object-Oriented Programming Foundations
+☑ Full-Stack Web Development (Node.js, Express, React, Servlets)
+☑ Cloud Fundamentals & Infrastructure as Code (Azure, AWS, Terraform)
+☑ DevSecOps Shift-Left Principles (TFLint, tfsec, Gitleaks, TruffleHog)
+☐ Complete 400+ Data Structures & Algorithms Problems in Java
+☐ Prepare for 2027 Campus Placements (TCS Ninja, Digital, Prime & Top Product Firms)
+☐ Deepen Advanced Azure & AWS Cloud Architecture & Containerization (Docker, AKS)
+☐ Clear Industry Cloud Certifications (Azure AZ-104 / AWS Solutions Architect Associate)
+```
 
 ---
 
@@ -278,29 +255,12 @@ Tracking core computer science curriculum milestones, lab implementations, and a
 
 ---
 
-# 🎯 2026 - 2027 Career Milestones & Roadmap
-
-```text
-[ B.Tech CSE Class of 2027 Roadmap ]
-☑ Master Core Java, OOP & Collections Framework
-☑ Master Core Data Structures & Sorting/Searching Algorithms
-☑ Build and Deploy Full-Stack Web Applications (Job Portal)
-☑ Master Cloud Fundamentals (Azure VNet, IAM, Compute, Storage)
-☑ Internalize Enterprise Architecture (CAF, Landing Zones, DevSecOps, FinOps)
-☐ Clear Industry Certifications (Microsoft Azure Administrator AZ-104 / Solutions Architect AZ-305)
-☐ Containerize Applications using Docker & Orchestrate with Kubernetes (AKS)
-☐ Solve 500+ LeetCode / DSA Problems with Peak Efficiency
-☐ Secure a High-Impact Software Engineering / Cloud Internship for 2026/2027
-```
-
----
-
-# 📫 Let's Connect & Collaborate!
+# 📫 Let's Connect!
 
 <div align="center">
 
-Are you looking for a **passionate, high-velocity engineering intern or fresher** who already understands enterprise systems?  
-Let's talk!
+Are you looking for a **dedicated, high-growth B.Tech CSE fresher (Batch of 2027)** for internships or software engineering roles?  
+I would love to connect!
 
 <br>
 
@@ -310,16 +270,13 @@ Let's talk!
 <a href="https://github.com/the-anurag14?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore%20Code-BC13FE?style=for-the-badge&logo=git&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Driven+by+curiosity.;Built+on+strong+fundamentals.;Architected+for+enterprise+scale.;Ready+to+make+an+impact." alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Learn+the+fundamentals.;Build+practical+software.;Automate+infrastructure.;Continuously+improve." alt="Footer Typing SVG" />
 </p>
 
 <p align="center">
@@ -332,8 +289,8 @@ Let's talk!
 
 ### ⚡ Anurag Kumar | B.Tech CSE (Batch of 2027)
 
-**"Understand the business domain. Design for scale and reliability. Automate ruthlessly."**
+**"Build systems, automate workflows, and never stop learning."**
 
-`CODE • ARCHITECT • SOLVE • DELIVER`
+`CODE • BUILD • SECURE • DELIVER`
 
 </div>
