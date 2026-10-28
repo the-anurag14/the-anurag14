@@ -241,16 +241,6 @@ A practical software platform designed to manage the end-to-end recruitment life
 * **Tech Stack:** `Node.js` `Express.js` `MongoDB Atlas` `JWT` `Java Servlets` `MySQL` `Apache Tomcat`
 * 👉 [Explore Repository →](https://github.com/the-anurag14/job-portal)
 
----
-
-### ☁️ [Azure Infrastructure Automation](https://github.com/the-anurag14/b18-infra)
-> **Infrastructure as Code (IaC) with Terraform & GitHub Actions**
-
-Hands-on cloud infrastructure automation repository provisioning enterprise-ready foundational networking and compute on Microsoft Azure.
-* **Key Implementation:** Automated creation of Azure Resource Groups, Virtual Networks (VNets), Subnets, and Network Security Groups (NSGs).
-* **IaC Practices:** Parameterized Terraform modules with Azure Blob Storage remote state locking and automated validation workflows.
-* **Tech Stack:** `Microsoft Azure` `Terraform` `GitHub Actions` `Linux / Bash`
-* 👉 [Explore Repository →](https://github.com/the-anurag14/b18-infra)
 
 ---
 
@@ -264,12 +254,12 @@ Structured problem-solving repository documenting my implementation of core Data
 
 ---
 
-### ⚡ [Tech-Bits](https://github.com/the-anurag14/Tech-Bits)
-> **Engineering Prototypes & Technical Exploration**
+### ⚡ [Hospital Management System (Tech.Bits)](https://github.com/the-anurag14/Tech.Bits)
+> **Full-Stack Enterprise Healthcare Web Application**
 
-A sandbox repository for experimenting with modern development concepts, architecture patterns, and hands-on technical ideas.
-* **Tech Stack:** `Software Engineering` `Prototyping` `Exploration`
-* 👉 [Explore Repository →](https://github.com/the-anurag14/Tech-Bits)
+A complete Hospital Management System web application built using Java (JSP, Servlets, JDBC) and MySQL following MVC architecture, managing Doctor, Patient, and Receptionist workflows.
+* **Tech Stack:** `Java` `JSP` `Servlets` `JDBC` `MySQL` `Apache Tomcat`
+* 👉 [Explore Repository →](https://github.com/the-anurag14/Tech.Bits)
 
 ---
 
