@@ -232,43 +232,58 @@ $ cat current_focus.json
 
 # 🏠 Featured Projects
 
-### 💼 [Job Portal Application](https://github.com/the-anurag14/job-portal)
-> **Full-Stack Recruitment Platform with Multi-Tier Architecture**
+### 🌐 [WorkLink AI Pro — Full-Stack AI Job Portal](https://github.com/the-anurag14/work-link-ai)
+> **Full-Stack AI Job Portal, ATS Resume Builder & Career Acceleration Suite**
 
-A practical software platform designed to manage the end-to-end recruitment lifecycle, candidate applications, and job postings.
-* **Architecture:** Decoupled 3-tier architecture with secure RESTful APIs, JWT role-based authentication (Job Seekers vs Employers), and relational/NoSQL data models.
-* **Dual Implementation:** Engineered using **Node.js, Express.js, and MongoDB Atlas**, alongside a separate enterprise **Java Servlets & MySQL** implementation running on Apache Tomcat.
-* **Tech Stack:** `Node.js` `Express.js` `MongoDB Atlas` `JWT` `Java Servlets` `MySQL` `Apache Tomcat`
+An enterprise-grade, all-in-one AI Job Platform uniting candidate job discovery, recruiter applicant tracking, an interactive ATS Resume Builder with live preview, and AI career tools (resume analyzer, cover letter generator, chatbot).
+* **Architecture:** Decoupled full-stack architecture featuring a React + TypeScript frontend, Node.js + Express backend, MongoDB Atlas, and JWT authentication.
+* **Tech Stack:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT`
+* 👉 [Explore Repository →](https://github.com/the-anurag14/work-link-ai)
+
+---
+
+### 💼 [Job Portal Backend API](https://github.com/the-anurag14/job-portal)
+> **RESTful API Service for Recruitment Platforms**
+
+Secure backend service managing authentication, role-based access control (`jobseeker` vs `recruiter`), job postings, dynamic querying, and candidate applications.
+* **Tech Stack:** `Node.js` `Express.js` `MongoDB Atlas` `Mongoose` `JWT` `bcryptjs`
 * 👉 [Explore Repository →](https://github.com/the-anurag14/job-portal)
 
+---
+
+### 📄 [Resume Builder Pro](https://github.com/the-anurag14/resume-builder-pro)
+> **Interactive ATS-Optimized Real-Time Resume Generator**
+
+A fast and responsive resume builder featuring dynamic multi-section editing (Personal Info, Experience, Education, Skills), real-time live preview, and 1-click ATS print/PDF generation.
+* **Tech Stack:** `React` `TypeScript` `Vite` `Tailwind CSS` `Radix UI` `Lucide Icons`
+* 👉 [Explore Repository →](https://github.com/the-anurag14/resume-builder-pro)
 
 ---
 
-### 📚 [Data Structures & Algorithms in Java](https://github.com/the-anurag14/DS_Java_Galgotias)
-> **Algorithmic Problem Solving & Computational Thinking**
-
-Structured problem-solving repository documenting my implementation of core Data Structures & Algorithms in Java.
-* **Focus Areas:** Arrays, Linked Lists, Stacks, Queues, Binary Trees, Recursion, Searching & Sorting, and Complexity Optimization ($O(N)$, $O(\log N)$).
-* **Tech Stack:** `Java` `Data Structures` `Algorithms` `Problem Solving`
-* 👉 [Explore Repository →](https://github.com/the-anurag14/DS_Java_Galgotias)
-
----
-
-### ⚡ [Hospital Management System (Tech.Bits)](https://github.com/the-anurag14/Tech.Bits)
+### 🏥 [Hospital Management System (Tech.Bits)](https://github.com/the-anurag14/Tech.Bits)
 > **Full-Stack Enterprise Healthcare Web Application**
 
-A complete Hospital Management System web application built using Java (JSP, Servlets, JDBC) and MySQL following MVC architecture, managing Doctor, Patient, and Receptionist workflows.
-* **Tech Stack:** `Java` `JSP` `Servlets` `JDBC` `MySQL` `Apache Tomcat`
+A complete Hospital Management System web application built using Java (JSP, Servlets, JDBC) and MySQL following MVC architecture, managing Doctor, Patient, and Receptionist workflows with automated statistics dashboards.
+* **Tech Stack:** `Java` `JSP` `Servlets` `JDBC` `MySQL` `Apache Tomcat` `Maven`
 * 👉 [Explore Repository →](https://github.com/the-anurag14/Tech.Bits)
 
 ---
 
-### 🎓 [Academic Development Journey](https://github.com/the-anurag14/Gu_Anurag_Kumar_23SCSE1010414)
-> **B.Tech CSE Academic Journey (2023 - 2027) • Galgotias University**
+### 🚀 [Data Structures & Algorithms (DSA) in Java](https://github.com/the-anurag14/Gu_Anurag_Kumar_23SCSE1010414)
+> **LeetCode & Algorithmic Problem Solving (Galgotias University • 23SCSE1010414)**
 
-Tracking academic development, computer science lab implementations, and engineering milestone projects (`23SCSE1010414`).
-* **Tech Stack:** `Computer Science Fundamentals` `Academic Projects`
+Organized collection of 23 LeetCode problem solutions in Java spanning Arrays, Two Pointers, Linked Lists, Binary Search, Matrix, and Dynamic Programming with indexed documentation.
+* **Tech Stack:** `Java` `Data Structures` `Algorithms` `LeetCode` `Competitive Programming`
 * 👉 [Explore Repository →](https://github.com/the-anurag14/Gu_Anurag_Kumar_23SCSE1010414)
+
+---
+
+### 🔗 [Data Structures Lab — Galgotias](https://github.com/the-anurag14/DS_Java_Galgotias)
+> **Core Data Structure Implementations from Scratch**
+
+Clean object-oriented implementations of foundational data structures (Singly Linked Lists with insertion, traversal, and iterative in-place reversal).
+* **Tech Stack:** `Java` `Data Structures` `Object-Oriented Programming`
+* 👉 [Explore Repository →](https://github.com/the-anurag14/DS_Java_Galgotias)
 
 ---
 
